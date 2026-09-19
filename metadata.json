@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sổ Liên Lạc 5A",
+  "description": "Ứng dụng sổ liên lạc điện tử giáo viên chủ nhiệm và phụ huynh Lớp 5A (31 học sinh): chuyên cần, nề nếp hành vi, kết nối Zalo, yêu cầu riêng từ nhà trường và kết quả học tập GHKI, HKI, GHKII, HKII.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
